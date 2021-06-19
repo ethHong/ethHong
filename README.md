@@ -6,4 +6,4 @@
 * 180Degrees Consulting
 
 - 🔭 I’m currently working on : Own research projects and study
-- ⚡ Interests / Learning: Deep Learning / NLP 
+- ⚡ Interests / Learning: Deep Learning / NLP
