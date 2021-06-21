@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Github Blog: https://github.com/ethHong
+
 ###  ⚡ Experiences
 * FIND - Career Platform Startup - Founder & Product Operation
 * Amazon Web Services - Account Management (Internship)
