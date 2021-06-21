@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Github Blog: https://github.com/ethHong
+Github Blog: https://ethhong.github.io
 
 ###  ⚡ Experiences
 * FIND - Career Platform Startup - Founder & Product Operation
