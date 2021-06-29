@@ -7,7 +7,7 @@ Github Blog: https://ethhong.github.io
 * Amazon Web Services - Account Management (Internship)
 * 180Degrees Consulting (Seoul, South Korea)
 
-- 🔭 I’m currently working on : Own research projects and study
+- 🔭 I’m currently working on : Research projects and study
 - ⚡ Interests / Learning:
 * Deep Learning / NLP. 
 * Trying to learn more on CNN, Generative models and Graph structure
