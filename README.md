@@ -12,6 +12,6 @@ Github Blog: https://ethhong.github.io
 * Deep Learning / NLP. 
 * Trying to learn more on CNN, Generative models and Graph structure
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethHong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethHong&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethHong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
