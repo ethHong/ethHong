@@ -11,3 +11,5 @@ Github Blog: https://ethhong.github.io
 - ⚡ Interests / Learning:
 * Deep Learning / NLP. 
 * Trying to learn more on CNN, Generative models and Graph structure
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethHong&show_icons=true&theme=radical)
