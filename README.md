@@ -3,6 +3,7 @@
 Github Blog: https://ethhong.github.io
 
 ###  ⚡ Experiences
+Currently working as: Product Owner - Flitto 
 * Yonsei Human and Artificial Intelligence Research Lab - https://github.com/yonseiai
 * FIND - Career Platform Startup - Founder & Product Operation
 * Amazon Web Services - Account Management (Internship)
