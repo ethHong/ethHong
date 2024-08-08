@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Github Blog: https://ethhong.github.io
-Other ML, AI, Analytics projects: https://sukhyun-projects.oopy.io
 UCLA MSBA '25 | Yonsei University UIC '15
+
+Github Blog: https://ethhong.github.io
+
+Other ML, AI, Analytics projects: https://sukhyun-projects.oopy.io
 
 ###  ⚡ Experiences
 
