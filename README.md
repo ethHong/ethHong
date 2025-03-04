@@ -3,6 +3,7 @@
 UCLA MSBA '25 | Yonsei University UIC '15
 
 Github Blog: https://ethhong.github.io
+Linkedin (I post some cool projects here!): https://www.linkedin.com/in/sukhyun-hong-ethan/
 
 ###  ⚡ Work Experiences
 * Product Manager (Full time) - MatchGroup - Hyperconnect
