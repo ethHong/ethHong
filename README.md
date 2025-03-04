@@ -1,15 +1,12 @@
-### Hi there 👋
+### Data Scientist / Product Manager
 
 UCLA MSBA '25 | Yonsei University UIC '15
 
 Github Blog: https://ethhong.github.io
 
-Other ML, AI, Analytics projects: https://sukhyun-projects.oopy.io
-
-###  ⚡ Experiences
-
-* Product Manager - Hyperconnect
-* Product Manager in Flitto - B2B / B2C product & data producer for NLP and machine translation
-* FIND - Career Platform Startup - Founder & Platform Operation
-* Amazon Web Services - Account Management (Internship)
-* 180Degrees Consulting (Seoul, South Korea)
+###  ⚡ Work Experiences
+* Product Manager (Full time) - MatchGroup - Hyperconnect
+* Product Manager (Full time) - Flitto - B2B / B2C product & data producer for NLP and machine translation
+* Founder & Platform Operation - FIND, Career Platform Startup
+* Data Analyst (Internship) - Amazon Web Services
+* Non-profit consulting for local socal enterprises - 180Degrees Consulting
