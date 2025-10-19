@@ -1,4 +1,4 @@
-### Data Scientist / Product Manager
+### Product Manager in Tech / AI
 
 UCLA MSBA '25 | Yonsei University UIC '15
 
