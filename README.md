@@ -11,7 +11,7 @@ UCLA MSBA '25 | Yonsei University UIC '15
 * Founder & Platform Operation - FIND, Career Platform Startup
 
 ### Internships
-* Business Insight Data Analyst - LA Clippers LLC
+* Business Insight Data Analyst - LA Clippers
 * Data Analyst (Internship) - Amazon Web Services
 * AI / ML Reserach Intern - Yonsei Unniversity Human and AI Research LAB
 * Non-profit consulting for local socal enterprises - 180Degrees Consulting
